@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an Newteer social media platform with MERN<br>🤝 I'm looking to collaborate on Laravel ,PHP and JavaScript projects.<br>🌱 I'm currently learning React.JS and Express.JS.<br>💬 Ask me about Laravel full stack development.
+🔭 I'm currently working on an Leave Management System for RazinConstruction Company<br>🤝 I'm looking to collaborate on Laravel ,PHP and JavaScript projects.<br>🌱 I'm currently learning React.JS and Express.JS.<br>💬 Ask me about Laravel full stack development.
 
 
 
