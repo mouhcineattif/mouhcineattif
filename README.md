@@ -3,7 +3,6 @@
 **Full-stack software engineer** based in Casablanca, Morocco. I build internal business systems, B2B SaaS and data-heavy enterprise tools, from the database schema to the last pixel of the UI.
 
 - 💼 Full-stack engineer at **Winity**, working on enterprise .NET + React platforms (HR/payroll, data integration)
-- 🧪 Building my own products under **[Trikeron](https://trikeron.com)**
 - 🤝 Open to freelance missions with French and European teams: business apps, SaaS MVPs, legacy modernisation
 - 🌐 Portfolio & case studies: **[mouhcineattifportfolio.vercel.app](https://mouhcineattifportfolio.vercel.app)**
 
